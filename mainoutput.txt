@@ -1,0 +1,62 @@
+Directory:       global depth:0       
+        No Directory yet
+                Bucket:  local depth:0
+                        No Data yet   
+ buckets:       1/0
+values: ([null,null])
+depths: (0,)
+=========================
+Directory:       global depth:0       
+        No Directory yet
+ buckets:       1/0
+values: ([33,null])
+depths: (0,)
+=========================
+                         key: 00001101   value: 33
+Directory:       global depth:0
+        No Directory yet
+ buckets:       1/0
+values: ([null,null])
+depths: (0,)
+=========================
+Directory:       global depth:3
+ buckets:       4/8
+values: ([20,70][11,null][null,null][null,null][null,null][null,null][null,null][null,null])
+depths: (3,3,2,2,1,1,1,1)
+=========================
+Directory:       global depth:3
+ buckets:       4/8
+values: ([20,70][11,null][54,null][54,null][16,99][16,99][16,99][16,99])
+depths: (3,3,2,2,1,1,1,1)
+=========================
+Directory:       global depth:3
+ buckets:       5/8
+values: ([20,70][11,null][54,null][54,null][30,null][30,null][16,99][16,99])
+depths: (3,3,2,2,2,2,2,2)
+=========================
+Directory:       global depth:5
+ buckets:       7/32
+values: ([20,70][45,88][null,null][null,null][11,null][11,null][11,null][11,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][30,null][30,null][30,null][30,null][30,null][30,null][30,null][30,null][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99])
+depths: (5,5,4,4,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2)
+=========================
+                         key: 00001101   value: 88
+Directory:       global depth:5
+ buckets:       7/32
+values: ([20,70][45,88][null,null][null,null][11,1][11,1][11,1][11,1][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][30,null][30,null][30,null][30,null][30,null][30,null][30,null][30,null][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99])
+depths: (5,5,4,4,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2)
+=========================
+Directory:       global depth:3
+ buckets:       5/8
+values: ([20,70][11,1][54,null][54,null][30,null][30,null][16,99][16,99])
+depths: (3,3,2,2,2,2,2,2)
+=========================
+Directory:       global depth:3
+ buckets:       5/8
+values: ([20,70][11,1][54,null][54,null][30,5][30,5][16,99][16,99])
+depths: (3,3,2,2,2,2,2,2)
+=========================
+Directory:       global depth:7
+ buckets:       9/128
+values: ([20,null][70,9][null,null][null,null][null,null][null,null][null,null][null,null][null,null][null,null][null,null][null,null][null,null][null,null][null,null][null,null][11,1][11,1][11,1][11,1][11,1][11,1][11,1][11,1][11,1][11,1][11,1][11,1][11,1][11,1][11,1][11,1][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][54,null][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][30,5][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99][16,99])
+depths: (7,7,6,6,5,5,5,5,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2)
+=========================

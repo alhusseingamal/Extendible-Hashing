@@ -1,0 +1,39 @@
+Directory:       global depth:0
+        No Directory yet       
+ buckets:       1/0
+values: ([220,null])
+depths: (0,)
+=========================      
+Directory:       global depth:0
+        No Directory yet       
+ buckets:       1/0
+values: ([220,245])
+depths: (0,)
+=========================
+Directory:       global depth:2
+ buckets:       3/4
+values: ([null,null][null,null][180,null][220,245])
+depths: (1,1,2,2)
+=========================
+Directory:       global depth:3
+ buckets:       4/8
+values: ([null,null][null,null][null,null][null,null][180,null][180,null][220,null][245,255])
+depths: (1,1,1,1,2,2,3,3)
+=========================
+Directory:       global depth:3
+ buckets:       4/8
+values: ([1,null][1,null][1,null][1,null][180,null][180,null][220,null][245,255])
+depths: (1,1,1,1,2,2,3,3)
+=========================
+Directory:       global depth:3
+ buckets:       4/8
+values: ([1,2][1,2][1,2][1,2][180,null][180,null][220,null][245,255])
+depths: (1,1,1,1,2,2,3,3)
+=========================
+Directory:       global depth:3
+ buckets:       5/8
+values: ([1,2][1,2][127,null][127,null][180,null][180,null][220,null][245,255])
+depths: (2,2,2,2,2,2,3,3)
+=========================
+                         key: 00000001   value: 1
+                         key:  15        value :         not found
